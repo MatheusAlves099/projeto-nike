@@ -2,102 +2,77 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    max-height: 85vh;
+    max-width: 500vh;
 }
 header {
-    position: absolute;
-    width: 144.15px;
-    height: 159px;
-    left: 66px;
-    top: 0px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 29px;
-    letter-spacing: 0.025em;
-
-    color: #000000;
+}
+.logo {
+    margin-left: 2.5vh;
 }
 .texto1 {
-    position: absolute;
-    width: 66px;
-    height: 32px;
-    left: 766px;
-    top: 43px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 24px;
+    margin-left: 83.5vh;
+    margin-top: 5vh;
 }
 .texto2 {
-    position: absolute;
-    width: 108px;
-    height: 32px;
-    left: 907px;
-    top: 41px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 24px;
+    margin-left: 98vh;
+    margin-top: -3vh;
 }
 .texto3 {
-    position: absolute;
-    width: 66px;
-    height: 32px;
-    left: 1089px;
-    top: 43px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 24px;
+    margin-left: 118vh;
+    margin-top: -3vh;
 }
 .texto4 {
-    position: absolute;
-    width: 233px;
-    height: 32px;
-    left: 1221px;
-    top: 43px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 24px;
+    margin-left: 130vh;
+    margin-top: -3vh;
 }
 .circulo4 {
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    left: 1870px;
-    top: 19px;
+    width: 60px;
+    height: 60px;
+    margin-left: 195vh;
+    margin-top: -5vh;
 
     background: #222222;
     border-radius: 50%;
 }
 .iconUser {
-    position: absolute;
-    left: 1883px;
-    top: 26px;
-}
-.simbols {
-    position: absolute;
-    left: 1960px;
-    top: 1070px;
+    height: 45px;
+    width: 45px;
+    margin-left: 195.5vh;
+    margin-top: -20vh;
 }
 .simbol1 {
-    position: absolute;
-    width: 16.36px;
-    height: 10px;
-    left: 832px;
-    top: 54px;
+    margin-left: 90vh;
+    margin-top: -20vh;
 }
 .simbol2 {
-    position: absolute;
-    width: 16.36px;
-    height: 10px;
-    left: 1015px;
-    top: 52px;
+    margin-left: 90vh;
+    margin-top: 20vh;
 }
 .simbol3 {
-    position: absolute;
-    width: 16.36px;
-    height: 10px;
-    left: 1147px;
-    top: 52px;
+    margin-left: 90vh;
+    margin-top: 10vh;
 }
 .retangulo {
-    position: absolute;
     width: 616px;
     height: 1117px;
-    left: 0px;
-    top: 0px;
+    top: -200px;
     background: linear-gradient(174.44deg, rgba(11, 11, 11, 0.95) -0.36%, rgba(13, 13, 13, 0.855) 104.09%);
     background-blend-mode: darken;
 }
 .logo {
-    position: absolute;
     width: 144.15px;
     height: 159px;
     left: 5px;
@@ -105,7 +80,6 @@ header {
     z-index: 1;
 }
 .circulo {
-    position: absolute;
     width: 679px;
     height: 679px;
     left: 277px;
@@ -115,17 +89,15 @@ header {
     border-radius: 50%;
 }
 .circulo2 {
-    position: absolute;
     width: 813px;
     height: 813px;
     left: 210px;
     top: 168px;
 
     border: 1.64242px solid #FFFFFF;
-    border-radius: 90%;
+    border-radius: 50%;
 }
 .circulo3 {
-    position: absolute;
     width: 410px;
     height: 130px;
     left: 280px;
@@ -137,7 +109,6 @@ header {
     border-radius: 50%;
 }
 .Jordan {
-    position: absolute;
     width: 257px;
     height: 44px;
     left: 1147px;
@@ -153,7 +124,6 @@ header {
     color: #000000;
 }
 .Air {
-    position: absolute;
     width: 751px;
     height: 120px;
     left: 1133px;
@@ -169,7 +139,6 @@ header {
     color: #000000;
 }
 .description {
-    position: absolute;
     width: 672px;
     height: 211px;
     left: 1147px;
@@ -186,7 +155,6 @@ header {
     color: #585858;
 }
 .retangulo2 {
-    position: absolute;
     width: 382px;
     height: 101px;
     left: 1147px;
@@ -196,7 +164,6 @@ header {
     border-radius: 50px;
 }
 .shopnow {
-    position: absolute;
     width: 219px;
     height: 25px;
     left: 1239px;
@@ -213,7 +180,6 @@ header {
     z-index: 1;
 }
 .airmax {
-    position: absolute;
     width: 820px;
     height: 620px;
     right: 900px;
@@ -223,7 +189,6 @@ header {
     z-index: 8;
 }
 .textNike {
-    position: absolute;
     width: 100px;
     height: 100px;
     left: 695px;
@@ -240,15 +205,12 @@ header {
     color: rgba(0, 0, 0, 0.07);
 }
 .retanguloFinal {
-    position: absolute;
     width: 2020px;
     height: 200px;
     top: 1117px;
     background: linear-gradient(174.44deg, rgba(11, 11, 11, 0.95) -0.36%, rgba(13, 13, 13, 0.855) 104.09%);
-    background-blend-mode: darken;
 }
 .FB {
-    position: absolute;
     width: 44px;
     height: 48px;
     left: 58px;
@@ -264,7 +226,6 @@ header {
     color: #FFFFFF;
 }
 .TW {
-    position: absolute;
     width: 44px;
     height: 48px;
     left: 135px;
@@ -281,7 +242,6 @@ header {
 
 }
 .INS {
-    position: absolute;
     width: 44px;
     height: 48px;
     left: 212px;
