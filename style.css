@@ -5,6 +5,9 @@ html, body {
     padding: 0;
     display: flex;
 }
+a {
+    text-decoration: none;
+}
 header {
     display: flex;
 }
