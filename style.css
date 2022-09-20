@@ -44,11 +44,11 @@ header {
     color: black;
 }
 .women {
-    margin-left: 8.5vh;
+    margin-left: 6.5vh;
     color: black;
 }
 .kid {
-    margin-right: -5vh;
+    margin-right: -3vh;
     color: black
 }
 .circuloUser {
@@ -140,7 +140,7 @@ main {
     display: flex;
     color: #FFFFFF;
     margin-top: 20vh;
-    max-width: 20vh;
+    max-width: 18vh;
     justify-content: space-between;
     list-style: none;
 }
@@ -152,5 +152,5 @@ main {
 .bars {
     color: black;
     font-size: 2.5rem;
-    margin-left: 36vh;
+    margin-left: 40vh;
 }
