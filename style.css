@@ -34,9 +34,22 @@ header {
 .listImg {
     display: flex;
     justify-content: space-between;
-    max-width: 24.5vh;
-    margin-top: -4.5vh;
-    margin-left: 16vh;
+    width: 355px;
+    font-size: 1rem;
+    margin-top: -5vh;
+    margin-left: 15vh;
+}
+.men {
+    margin-left: 1vh;
+    color: black;
+}
+.women {
+    margin-left: 5.5vh;
+    color: black;
+}
+.kid {
+    margin-right: 1vh;
+    color: black
 }
 .simbol3 {
     display: flex;
@@ -48,12 +61,14 @@ header {
     height: 6.5vh;
     background: #222222;
     border-radius: 50%;
-    margin-top: -4vh;
+    margin-top: -6vh;
     margin-left: 125vh;
 }
-.iconUser {
-    width: 6vh;
-    height: 6vh;
+.user {
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    margin-left: 1vh;
+    margin-top: 2vh;
 }
 .red_circle {
     width: 60vh;
@@ -90,14 +105,14 @@ main {
     margin-left: 40vh;
     font-size: 3vh;
     letter-spacing: 0.24em;
-    margin-top: 18vh;
+    margin-top: 13vh;
     font-weight: 400;
 }
 .Air {
     margin-left: 40vh;
     font-size: 13vh;
     letter-spacing: 0.30em;
-    margin-top: 3vh;
+    margin-top: 8vh;
     font-weight: 700;
 }
 .description {
@@ -115,7 +130,7 @@ main {
     height: 8vh;
     background: #0B0B0B;
     border-radius: 7vh;
-    margin-top: 5vh;
+    margin-top: 7vh;
 }
 .shopnow {
     margin-left: 46.5vh;
