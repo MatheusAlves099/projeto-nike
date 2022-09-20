@@ -40,8 +40,8 @@ header {
 }
 .simbol3 {
     display: flex;
-    margin-top: -4.5vh;
-    margin-left: 60vh;
+    margin-top: -3.5vh;
+    margin-left: 59vh;
 }
 .circuloUser {
     width: 6.5vh;
@@ -49,7 +49,7 @@ header {
     background: #222222;
     border-radius: 50%;
     margin-top: -4vh;
-    margin-left: 127vh;
+    margin-left: 125vh;
 }
 .iconUser {
     width: 6vh;
@@ -129,7 +129,7 @@ main {
     font-family: 'Gilda Display';
     display: flex;
     color: #FFFFFF;
-    margin-top: 17vh;
+    margin-top: 20vh;
     max-width: 20vh;
     justify-content: space-between;
     list-style: none;
@@ -137,10 +137,10 @@ main {
 .tresRiscos {
     margin-left: 127vh;
     max-height: 5vh;
-    margin-top: 10vh;
+    margin-top: 19.5vh;
 }
 .nikera {
-    max-height: 20vh;
-    margin-top: -9vh;
-    margin-left: 10vh;
+    justify-content: flex-end;   
+    margin-top: 84vh;
+    margin-left: -110vh;
 }
