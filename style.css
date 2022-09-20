@@ -44,17 +44,12 @@ header {
     color: black;
 }
 .women {
-    margin-left: 6.5vh;
+    margin-left: 8.5vh;
     color: black;
 }
 .kid {
-    margin-right: 3vh;
+    margin-right: -5vh;
     color: black
-}
-.simbol3 {
-    display: flex;
-    margin-top: -3vh;
-    margin-left: 59vh;
 }
 .circuloUser {
     width: 6.5vh;
@@ -67,7 +62,7 @@ header {
 .user {
     font-size: 2.5rem;
     color: #FFFFFF;
-    margin-left: 1vh;
+    margin-left: 1.5vh;
     margin-top: 2vh;
 }
 .red_circle {
@@ -149,13 +144,13 @@ main {
     justify-content: space-between;
     list-style: none;
 }
-.tresRiscos {
-    margin-left: 127vh;
-    max-height: 5vh;
-    margin-top: 21vh;
-}
 .nikera {
     justify-content: flex-end;   
     margin-top: 85.50vh;
     margin-left: -110vh;
+}
+.bars {
+    color: black;
+    font-size: 2.5rem;
+    margin-left: 36vh;
 }
