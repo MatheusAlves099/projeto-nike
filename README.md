@@ -2,7 +2,7 @@
 
 ![](./img/screenshot.png)
 
-[Clique Aqui](https://matheusalves099.github.io/headphone-purple/) para acessar o site.
+[Clique Aqui](https://matheusalves099.github.io/projeto-nike/) para acessar o site.
 
 ---
 ## Sobre
