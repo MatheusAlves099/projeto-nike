@@ -1,4 +1,4 @@
-html, body { 
+html, body{ 
     width: 100%;
     height: 100%;
     margin: 0;
@@ -41,15 +41,18 @@ header {
     margin-left: 15vh;
 }
 .men {
-    margin-left: 1vh;
+    margin-left: 8px;
     color: black;
+    margin-top: -3px;
 }
 .women {
-    margin-left: 6vh;
+    margin-left: 35px;
+    margin-top: -3px;
     color: black;
 }
 .kid {
-    margin-right: -2.5vh;
+    margin-right: 80px;
+    margin-top: -3px;
     color: black
 }
 .circuloUser {
@@ -57,13 +60,13 @@ header {
     height: 6.5vh;
     background: #222222;
     border-radius: 50%;
-    margin-top: -5vh;
+    margin-top: -6vh;
     margin-left: 125vh;
 }
 .user {
-    font-size: 2.5rem;
+    font-size: 2.50rem;
     color: #FFFFFF;
-    margin-left: 1.5vh;
+    margin-left: 0.5vh;
     margin-top: 4vh;
 }
 .red_circle {
@@ -126,12 +129,12 @@ main {
     height: 8vh;
     background: #0B0B0B;
     border-radius: 7vh;
-    margin-top: 7vh;
+    margin-top: 3vh;
 }
 .shopnow {
     margin-left: 46.5vh;
     font-size: 2vh;
-    margin-top: -4.5vh;
+    margin-top: -5.5vh;
     color: #FFFFFF;
     letter-spacing: 0.30em;
     font-weight: 400;
@@ -140,18 +143,21 @@ main {
     font-family: 'Gilda Display';
     display: flex;
     color: #FFFFFF;
-    margin-top: 22vh;
+    margin-top: 16vh;
+    margin-left: -10px;
     max-width: 18vh;
     justify-content: space-between;
     list-style: none;
 }
 .nikera {
     justify-content: flex-end;   
-    margin-top: 85vh;
-    margin-left: -110vh;
+    margin-top: 79.5vh;
+    margin-left: -120vh;
 }
 .bars {
     color: black;
     font-size: 2.5rem;
-    margin-left: 44vh;
+    margin-left: 125vh;
+    margin-top: 22vh;
+    display: flex;
 }
