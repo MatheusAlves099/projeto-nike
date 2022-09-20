@@ -7,7 +7,7 @@
 ---
 ## Sobre
 Site do tipo landing page para divulgar o tênis Air Max da Nike.
-O Objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvolvimento de sites, adquiridos no curso do SENAI Jandira.
+O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvolvimento de sites, adquiridos no curso do SENAI Jandira.
 
 ---
 ## Tecnologias utilizadas
