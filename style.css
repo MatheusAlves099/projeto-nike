@@ -40,7 +40,7 @@ header {
 }
 .simbol3 {
     display: flex;
-    margin-top: -3.5vh;
+    margin-top: -2.5vh;
     margin-left: 59vh;
 }
 .circuloUser {
@@ -141,6 +141,6 @@ main {
 }
 .nikera {
     justify-content: flex-end;   
-    margin-top: 86vh;
+    margin-top: 85vh;
     margin-left: -110vh;
 }
