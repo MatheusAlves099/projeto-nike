@@ -40,7 +40,7 @@ header {
 }
 .simbol3 {
     display: flex;
-    margin-top: -2.5vh;
+    margin-top: -3vh;
     margin-left: 59vh;
 }
 .circuloUser {
@@ -137,7 +137,7 @@ main {
 .tresRiscos {
     margin-left: 127vh;
     max-height: 5vh;
-    margin-top: 23vh;
+    margin-top: 21vh;
 }
 .nikera {
     justify-content: flex-end;   
