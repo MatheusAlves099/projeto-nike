@@ -35,18 +35,18 @@ header {
 .listImg {
     display: flex;
     font-size: 1rem;
-    margin-top: -36px;
+    margin-top: -5vh;
 }
 .men {
-    margin-left: 105px;
+    margin-left: 16vh;
     color: black;
 }
 .women {
-    margin-left: 130px;
+    margin-left: 20vh;
     color: black;
 }
 .kid {
-    margin-left: 90px;
+    margin-left: 14vh;
     color: black
 }
 .circuloUser {
@@ -60,8 +60,8 @@ header {
 .user {
     font-size: 2.50rem;
     color: #FFFFFF;
-    margin-left: 0.5vh;
-    margin-top: 4vh;
+    margin-left: 1.5vh;
+    margin-top: 5vh;
 }
 .red_circle {
     width: 60vh;
@@ -137,7 +137,7 @@ main {
     font-family: 'Gilda Display';
     display: flex;
     color: #FFFFFF;
-    margin-top: 16vh;
+    margin-top: 25vh;
     margin-left: -10px;
     max-width: 18vh;
     justify-content: space-between;
@@ -145,13 +145,13 @@ main {
 }
 .nikera {
     justify-content: flex-end;   
-    margin-top: 79.5vh;
+    margin-top: 85.5vh;
     margin-left: -120vh;
 }
 .bars {
     color: black;
     font-size: 2.5rem;
-    margin-left: 125vh;
-    margin-top: 22vh;
+    margin-left: 128vh;
+    margin-top: 25vh;
     display: flex;
 }
